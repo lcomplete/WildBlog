@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "七周七语言之Scala"
+title: "七周七语言之 Scala"
 date: 2013-08-01T22:06:08+08:00
 comments: true
-tags: ['编程语言']
-categories: ['技术']
+tags: ["编程语言"]
+categories: ["技术"]
 toc: false
 ---
 

@@ -1,7 +1,7 @@
 baseURL = "http://localhost:1313/"
 languageCode = "zh-cn"
 defaultContentLanguage = "zh-cn"                             # en / zh-cn / ... (This field determines which i18n file to use)
-title = "lcomplete 的博客"
+title = "lcomplete 的个人博客"
 preserveTaxonomyNames = true
 enableRobotsTXT = true
 enableEmoji = true
@@ -48,6 +48,11 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   weight = 40
   identifier = "categories"
   url = "/categories/"
+[[menu.main]]
+  name = "周刊"
+  weight = 50
+  identifier = ""
+  url = "https://www.getrevue.co/profile/lcomplete"
 
 [params]
   version = "4.x"           # Used to give a friendly message when you have an incompatible update
@@ -61,7 +66,7 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   # site info (optional)                                  # 站点信息（可选，不需要的可以直接注释掉）
   logoTitle = "Lcomplete"        # default: the title value    # 默认值: 上面设置的title值
   keywords = ["技术", "阅读","随笔"]
-  description = "lcomplete 的个人博客"
+  description = "lcomplete 的个人博客，🌟 记录效率方法 🪄、优质文章 📑、编程知识 🎹、实用工具 🛠️ 和个人随笔 😄。"
 
   # paginate of archives, tags and categories             # 归档、标签、分类每页显示的文章数目，建议修改为一个较大的值
   archivePaginate = 50
