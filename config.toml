@@ -50,9 +50,14 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   url = "/categories/"
 [[menu.main]]
   name = "周刊"
-  weight = 50
+  weight = 60
   identifier = ""
   url = "https://www.getrevue.co/profile/lcomplete"
+[[menu.main]]
+  name = "技术分享"
+  weight = 50
+  identifier = ""
+  url = "https://tech.codelc.com/"
 
 [params]
   version = "4.x"           # Used to give a friendly message when you have an incompatible update
