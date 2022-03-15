@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Javascript] 🎄 [React] 使用 remotion 制作视频，让圣诞快乐 PSD 动起来"
+title: "🎄 [React] 使用 remotion 制作视频，让圣诞快乐 PSD 动起来"
 date: 2021-12-20T05:44:08+08:00
 comments: true
 tags: ["Javascript"]
